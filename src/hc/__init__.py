@@ -1,0 +1,2 @@
+"""Scaffold package for hc."""
+

@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+.venv-nerfstudio
+
+# Local OS/editor files
+.DS_Store
+
+# Generated splats, renders, and experiments
+outputs/
+runs/

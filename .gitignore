@@ -18,5 +18,3 @@ wheels/
 outputs/
 runs/
 
-# Per-user output
-src/dan/output/
